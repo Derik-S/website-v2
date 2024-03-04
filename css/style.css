@@ -33,6 +33,12 @@ header{
     background: transparent;
     transition: all .7s;
 }
+header a img {
+    height: 50px;
+    width: 50px;
+    object-fit: contain;
+}
+
 .logo{
     display:flex;
     align-items: center;
